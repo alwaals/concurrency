@@ -1,0 +1,15 @@
+2023/12/12 18:23:10 Error received from handler
+dler 2023-12-12 18:20:51.466873 -0600 CST m=+0.000632293
+2023/12/12 18:21:59 Error received from handler
+2023/12/12 18:23:25 Error received from handler
+2023/12/12 18:23:43 Error received from handler
+2023/12/12 18:23:45 Error received from handler
+2023/12/12 18:23:46 Error received from handler
+2023/12/12 18:29:09 Error received from handler
+INFO2023/12/12 18:29:09 main.go:28: This is just a warning
+INFO2023/12/12 18:29:09 main.go:29: This is just a testing information
+INFO2023/12/12 18:29:09 main.go:30: Got a serious error
+2023/12/12 18:29:34 Error received from handler
+WARNING:2023/12/12 18:29:34 main.go:28: This is just a warning
+INFO:2023/12/12 18:29:34 main.go:29: This is just a testing information
+ERROR:2023/12/12 18:29:34 main.go:30: Got a serious error
